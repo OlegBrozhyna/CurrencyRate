@@ -24,9 +24,6 @@ public class Main {
                             "sale":"38.90000"
                     }]
 
-                    public static void main(String[] args) {
-
-                    }
                 }
 
          
