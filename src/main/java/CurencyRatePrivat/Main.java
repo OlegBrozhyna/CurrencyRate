@@ -1,4 +1,4 @@
-package org.example;
+package CurencyRatePrivat;
 
 import java.io.IOException;
 
